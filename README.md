@@ -1,7 +1,6 @@
-[![MasterHead] (https://i.pinimg.com/originals/cd/6b/28/cd6b28345bb056db958c5a7b24277143.gif)](https://samiicoding.io)
 <h1 align="center">Hi 👋, I'm Samira Santos</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/gis-women-in-science-girls-stem-UcQSokPVOjz1eBX9G2">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/6b/28/cd6b28345bb056db958c5a7b24277143.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiicoding&label=Profile%20views&color=0e75b6&style=flat" alt="samiicoding" /> </p>
 
